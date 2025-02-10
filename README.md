@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Algorithmic Trading and GenAI
-- 🌱 I’m currently learning low-level programming (C and Rust) and C#
+- 🔭 I’m currently working on web development for data web apps
+- 🌱 I’m currently learning Python and JS for web
 
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benson-nderitu&show_icons=true&theme=radical)
 
