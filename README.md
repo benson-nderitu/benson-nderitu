@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on web development for data web apps
 - 🌱 I’m currently learning Python and JS for web
 
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benson-nderitu&show_icons=true&theme=radical)
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benson-nderitu&show_icons=true&theme=vue)
 
 <!--
 **benson-nderitu/benson-nderitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
