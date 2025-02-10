@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python and JS for web
 
 ![benson-nderitu's Stats](https://github-readme-stats.vercel.app/api?username=benson-nderitu&theme=vue&show_icons=true&hide_border=true&count_private=true)
-![benson-nderitu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=benson-nderitu&theme=vue&hide_border=true)
 
 <!--
 **benson-nderitu/benson-nderitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
