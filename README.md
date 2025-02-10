@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Algorithmic Trading and GenAI
 - 🌱 I’m currently learning low-level programming (C and Rust) and C#
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasbs17&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benson-nderitu&show_icons=true&theme=radical)
 
 <!--
 **benson-nderitu/benson-nderitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
