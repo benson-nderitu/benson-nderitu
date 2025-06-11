@@ -8,11 +8,8 @@
 ![benson-nderitu's Stats](https://github-readme-stats.vercel.app/api?username=benson-nderitu&theme=vue&show_icons=true&hide_border=true&count_private=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=benson-nderitu&theme=vue)](https://git.io/streak-stats)<br/>
 ![benson-nderitu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benson-nderitu&theme=vue&show_icons=true&hide_border=false&layout=compact)
-![benson-nderitu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=benson-nderitu&theme=vue&hide_border=false)
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alihassan143&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Ali Hassan GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alihassan143&include_all_commits=true&theme=dark&show_icons=true)
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=alihassan143cool&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benson-nderitu&layout=donut-vertical)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=benson-nderitu&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
