@@ -9,7 +9,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=benson-nderitu&theme=vue)](https://git.io/streak-stats)<br/>
 ![benson-nderitu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benson-nderitu&theme=vue&show_icons=true&hide_border=false&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benson-nderitu&layout=donut-vertical)
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=benson-nderitu&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/benson-nderitu/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
