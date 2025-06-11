@@ -8,9 +8,7 @@
 ![benson-nderitu's Stats](https://github-readme-stats.vercel.app/api?username=benson-nderitu&theme=vue&show_icons=true&hide_border=true&count_private=true)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com?user=benson-nderitu&theme=vue)](https://git.io/streak-stats)<br/>
 ![benson-nderitu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benson-nderitu&theme=vue&show_icons=true&hide_border=false&layout=compact)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benson-nderitu&layout=donut-vertical)<br/>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=benson-nderitu)](https://github.com/benson-nderitu/github-readme-stats)<br/>
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-[![](https://visitcount.itsvg.in/api?id=alihassan143&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&border=true)
